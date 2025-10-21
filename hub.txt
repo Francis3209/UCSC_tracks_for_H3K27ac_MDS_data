@@ -1,0 +1,5 @@
+hub myTrackHub_H3K27ac_MDS_data
+shortLabel My H3K27acChIP Hub
+longLabel A collection of H3K27ac ChIPseq data from MDS and sAML patients.
+genomesFile genomes.txt
+email francesco.gandolfi@ieo.it
