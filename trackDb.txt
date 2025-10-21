@@ -447,7 +447,7 @@ maxHeightPixels 100:30:10
     shortLabel sample18
     longLabel Dataset LR sample18 H3K27Ac ChIP-seq bigwig format
     type bigWig
-    color 40,73,182
+    color 64,207,250
 
     track datasetLR_sample197
     parent datasetLR
@@ -471,7 +471,7 @@ maxHeightPixels 100:30:10
     shortLabel sample22
     longLabel Dataset LR sample22 H3K27Ac ChIP-seq bigwig format
     type bigWig
-    color 40,73,182
+    color 64,207,250
 
     track datasetLR_sample23
     parent datasetLR
@@ -479,7 +479,7 @@ maxHeightPixels 100:30:10
     shortLabel sample23
     longLabel Dataset LR sample23 H3K27Ac ChIP-seq bigwig format
     type bigWig
-    color 40,73,182
+    color 64,207,250
 
     track datasetLR_sample24
     parent datasetLR
@@ -591,7 +591,7 @@ maxHeightPixels 100:30:10
     shortLabel sample51
     longLabel Dataset LR sample51 H3K27Ac ChIP-seq bigwig format
     type bigWig
-    color 40,73,182
+    color 64,207,250
 
     track datasetLR_sample52
     parent datasetLR
@@ -615,7 +615,7 @@ maxHeightPixels 100:30:10
     shortLabel sample55
     longLabel Dataset LR sample55 H3K27Ac ChIP-seq bigwig format
     type bigWig
-    color 40,73,182
+    color 64,207,250
 
     track datasetLR_sample56
     parent datasetLR
@@ -711,6 +711,6 @@ maxHeightPixels 100:30:10
     shortLabel sample9
     longLabel Dataset LR sample9 H3K27Ac ChIP-seq bigwig format
     type bigWig
-    color 40,73,182
+    color 64,207,250
 
     
