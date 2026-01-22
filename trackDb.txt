@@ -251,8 +251,8 @@ maxHeightPixels 100:30:10
     track datasetHR_sample2
     parent datasetHR
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_HR_patient_sample_2.BigWig?download=1
-    shortLabel sample2
-    longLabel Dataset HR sample2 H3K27Ac ChIP-seq bigwig format
+    shortLabel sample218
+    longLabel Dataset HR sample218 H3K27Ac ChIP-seq bigwig format
     type bigWig
     color 239,180,36
 
@@ -299,56 +299,56 @@ maxHeightPixels 100:30:10
     track datasetHR_sample69
     parent datasetHR
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_HR_patient_sample_69.BigWig?download=1
-    shortLabel sample69
-    longLabel Dataset HR sample69 H3K27Ac ChIP-seq bigwig format
+    shortLabel sample219
+    longLabel Dataset HR sample219 H3K27Ac ChIP-seq bigwig format
     type bigWig
     color 239,180,36
 
     track datasetHR_sample70
     parent datasetHR
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_HR_patient_sample_70.BigWig?download=1
-    shortLabel sample70
-    longLabel Dataset HR sample70 H3K27Ac ChIP-seq bigwig format
+    shortLabel sample220
+    longLabel Dataset HR sample220 H3K27Ac ChIP-seq bigwig format
     type bigWig
     color 239,180,36
 
     track datasetHR_sample71
     parent datasetHR
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_HR_patient_sample_71.BigWig?download=1
-    shortLabel sample71
-    longLabel Dataset HR sample71 H3K27Ac ChIP-seq bigwig format
+    shortLabel sample221
+    longLabel Dataset HR sample221 H3K27Ac ChIP-seq bigwig format
     type bigWig
     color 239,180,36
 
     track datasetHR_sample72
     parent datasetHR
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_HR_patient_sample_72.BigWig?download=1
-    shortLabel sample72
-    longLabel Dataset HR sample72 H3K27Ac ChIP-seq bigwig format
+    shortLabel sample222
+    longLabel Dataset HR sample222 H3K27Ac ChIP-seq bigwig format
     type bigWig
     color 239,180,36
 
     track datasetHR_sample73
     parent datasetHR
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_HR_patient_sample_73.BigWig?download=1
-    shortLabel sample73
-    longLabel Dataset HR sample73 H3K27Ac ChIP-seq bigwig format
+    shortLabel sample223
+    longLabel Dataset HR sample223 H3K27Ac ChIP-seq bigwig format
     type bigWig
     color 239,180,36
 
     track datasetHR_sample75
     parent datasetHR
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_HR_patient_sample_75.BigWig?download=1
-    shortLabel sample75
-    longLabel Dataset HR sample75 H3K27Ac ChIP-seq bigwig format
+    shortLabel sample224
+    longLabel Dataset HR sample224 H3K27Ac ChIP-seq bigwig format
     type bigWig
     color 239,180,36
 
     track datasetHR_sample76
     parent datasetHR
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_HR_patient_sample_76.BigWig?download=1
-    shortLabel sample76
-    longLabel Dataset HR sample76 H3K27Ac ChIP-seq bigwig format
+    shortLabel sample225
+    longLabel Dataset HR sample225 H3K27Ac ChIP-seq bigwig format
     type bigWig
     color 239,180,36
 
