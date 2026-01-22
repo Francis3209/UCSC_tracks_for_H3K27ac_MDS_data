@@ -697,11 +697,11 @@ maxHeightPixels 100:30:10
     type bigWig
     color 64,207,250
 
-    track datasetLR_sample85
+    track datasetLR_sample88
     parent datasetLR
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_LR_patient_sample_85.BigWig?download=1
-    shortLabel sample85
-    longLabel Dataset LR sample85 H3K27Ac ChIP-seq bigwig format
+    shortLabel sample88
+    longLabel Dataset LR sample88 H3K27Ac ChIP-seq bigwig format
     type bigWig
     color 40,73,182
 
