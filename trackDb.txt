@@ -95,7 +95,7 @@ maxHeightPixels 100:30:10
     type bigWig
     color 174,6,32
 
-    track datasetAML_sample41
+    track datasetAML_sample251
     parent datasetAML
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_AML_patient_sample_41.BigWig?download=1
     shortLabel sample251
@@ -183,7 +183,7 @@ maxHeightPixels 100:30:10
     type bigWig
     color 174,6,32
 
-    track datasetAML_sample86
+    track datasetAML_sample260
     parent datasetAML
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_AML_patient_sample_86.BigWig?download=1
     shortLabel sample260
