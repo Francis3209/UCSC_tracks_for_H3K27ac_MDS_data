@@ -98,8 +98,8 @@ maxHeightPixels 100:30:10
     track datasetAML_sample41
     parent datasetAML
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_AML_patient_sample_41.BigWig?download=1
-    shortLabel sample41
-    longLabel Dataset AML sample41 H3K27Ac ChIP-seq bigwig format
+    shortLabel sample251
+    longLabel Dataset AML sample251 H3K27Ac ChIP-seq bigwig format
     type bigWig
     color 174,6,32
 
@@ -186,8 +186,8 @@ maxHeightPixels 100:30:10
     track datasetAML_sample86
     parent datasetAML
     bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_AML_patient_sample_86.BigWig?download=1
-    shortLabel sample86
-    longLabel Dataset AML sample86 H3K27Ac ChIP-seq bigwig format
+    shortLabel sample260
+    longLabel Dataset AML sample260 H3K27Ac ChIP-seq bigwig format
     type bigWig
     color 174,6,32
 
