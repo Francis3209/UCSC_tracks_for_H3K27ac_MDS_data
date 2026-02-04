@@ -336,9 +336,9 @@ maxHeightPixels 100:30:10
     type bigWig
     color 239,180,36
 
-    track datasetHR_sample75
+    track datasetHR_sample224
     parent datasetHR
-    bigDataUrl https://zenodo.org/records/17131620/files/H3K27Ac_HR_patient_sample_75.BigWig?download=1
+    bigDataUrl https://zenodo.org/records/18432373/files/H3K27Ac_HR_patient_sample_224.BigWig?download=1
     shortLabel sample224
     longLabel Dataset HR sample224 H3K27Ac ChIP-seq bigwig format
     type bigWig
